@@ -1,8 +1,8 @@
 ## Laravel Notes
 
 Table of Contents
-1. Installation
-2. How to Use
+1. [Installation](#installation)
+2. [How to Use](#how-to-use)
 
 ---
 
