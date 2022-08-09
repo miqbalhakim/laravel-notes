@@ -64,9 +64,9 @@ http://notes.test OR http://127.0.0.1:8000
 4. Click on `Add New` to add new note. This will open a modal with title and description field.
 5. Once you have done typing your note, click on `Save changes` to save.
 6. At right side of the pages, you will see 3 buttons.
-   6.1 Blue button - view, you can view details on your note.
-   6.2 Cyan button - edit, you can edit and modify your note.
-   6.3 Red button - delete, you can delete the selected note.
+6.1 Blue button - view, you can view details on your note.
+6.2 Cyan button - edit, you can edit and modify your note.
+6.3 Red button - delete, you can delete the selected note.
 7. If you click on blue button which is view button, you can only see details on your note. Last updated timestamp also shown on the modal.
 8. If you click on cyan button which is edit button, you can modify the title and description, and click `Update` to save the changes you have made.
 9. If you click on red button which is delete button, you can delete the note.
